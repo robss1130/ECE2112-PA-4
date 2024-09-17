@@ -35,3 +35,4 @@
 
 #Versions:
 - 1.0 - Initial release
+- 2.0 - Updated some line of codes; included communication in calculating the mean for the plot as it wasn't included in previous version
